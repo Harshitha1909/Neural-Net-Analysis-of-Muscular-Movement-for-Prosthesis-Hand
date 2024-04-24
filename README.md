@@ -1,0 +1,1 @@
+# Neural-Net-Analysis-of-Muscular-Movement-for-Prosthesis-Hand
